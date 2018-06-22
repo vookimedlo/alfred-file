@@ -63,7 +63,7 @@
 	<key>createdby</key>
 	<string>Michal Duda</string>
 	<key>description</key>
-	<string>Displays information about given files.</string>
+	<string>Alfred 3 workflow for analyzing a file content.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -254,7 +254,7 @@ fi</string>
 			<key>colorindex</key>
 			<integer>9</integer>
 			<key>note</key>
-			<string>FFProbe</string>
+			<string>FileAnalysis</string>
 			<key>xpos</key>
 			<integer>220</integer>
 			<key>ypos</key>
@@ -276,7 +276,7 @@ fi</string>
 			<key>colorindex</key>
 			<integer>9</integer>
 			<key>note</key>
-			<string>FFProbe</string>
+			<string>FileAnalysis</string>
 			<key>xpos</key>
 			<integer>480</integer>
 			<key>ypos</key>
@@ -287,7 +287,7 @@ fi</string>
 			<key>colorindex</key>
 			<integer>9</integer>
 			<key>note</key>
-			<string>FFProbe</string>
+			<string>FileAnalysis</string>
 			<key>xpos</key>
 			<integer>20</integer>
 			<key>ypos</key>
@@ -298,7 +298,7 @@ fi</string>
 			<key>colorindex</key>
 			<integer>9</integer>
 			<key>note</key>
-			<string>FFProbe</string>
+			<string>FileAnalysis</string>
 			<key>xpos</key>
 			<integer>360</integer>
 			<key>ypos</key>
@@ -306,7 +306,7 @@ fi</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2018.06.XX</string>
+	<string>2018.06.22</string>
 	<key>webaddress</key>
 	<string>https://github.com/vookimedlo/alfred-file</string>
 </dict>
